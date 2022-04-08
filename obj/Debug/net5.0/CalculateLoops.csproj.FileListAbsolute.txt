@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\CalculateLoops\bin\Debug\net5.0\CalculateLoops.exe
+C:\Users\lena_\source\repos\CalculateLoops\bin\Debug\net5.0\CalculateLoops.deps.json
+C:\Users\lena_\source\repos\CalculateLoops\bin\Debug\net5.0\CalculateLoops.runtimeconfig.json
+C:\Users\lena_\source\repos\CalculateLoops\bin\Debug\net5.0\CalculateLoops.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\CalculateLoops\bin\Debug\net5.0\CalculateLoops.dll
+C:\Users\lena_\source\repos\CalculateLoops\bin\Debug\net5.0\ref\CalculateLoops.dll
+C:\Users\lena_\source\repos\CalculateLoops\bin\Debug\net5.0\CalculateLoops.pdb
+C:\Users\lena_\source\repos\CalculateLoops\obj\Debug\net5.0\CalculateLoops.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\CalculateLoops\obj\Debug\net5.0\CalculateLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\CalculateLoops\obj\Debug\net5.0\CalculateLoops.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\CalculateLoops\obj\Debug\net5.0\CalculateLoops.AssemblyInfo.cs
+C:\Users\lena_\source\repos\CalculateLoops\obj\Debug\net5.0\CalculateLoops.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\CalculateLoops\obj\Debug\net5.0\CalculateLoops.dll
+C:\Users\lena_\source\repos\CalculateLoops\obj\Debug\net5.0\ref\CalculateLoops.dll
+C:\Users\lena_\source\repos\CalculateLoops\obj\Debug\net5.0\CalculateLoops.pdb
+C:\Users\lena_\source\repos\CalculateLoops\obj\Debug\net5.0\CalculateLoops.genruntimeconfig.cache
